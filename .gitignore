@@ -6,3 +6,5 @@ package.tar.gz
 .vscode/launch.json
 client.sh
 .vscode/settings.json
+.meteor
+.idea
